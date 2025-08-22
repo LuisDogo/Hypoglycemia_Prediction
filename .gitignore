@@ -1,0 +1,27 @@
+# Datos crudos y procesados
+Data/Raw_Data/
+
+# MLflow
+mlruns/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
