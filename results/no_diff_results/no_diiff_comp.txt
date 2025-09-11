@@ -1,0 +1,53 @@
++--------------+-----------------+--------------+
+| ID_patient   | KPPS            | ADF          |
++==============+=================+==============+
+| HUPA0004P    | Estacionaria    | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0006P    | Estacionaria    | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0007P    | Estacionaria    | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0009P    | Estacionaria    | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0005P    | No estacionaria | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0011P    | Estacionaria    | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0003P    | No estacionaria | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0001P    | No estacionaria | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0010P    | Estacionaria    | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0002P    | Estacionaria    | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0014P    | Estacionaria    | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0015P    | No estacionaria | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0016P    | Estacionaria    | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0017P    | Estacionaria    | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0018P    | No estacionaria | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0021P    | No estacionaria | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0020P    | Estacionaria    | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0024P    | Estacionaria    | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0019P    | Estacionaria    | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0023P    | No estacionaria | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0022P    | Estacionaria    | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0025P    | Estacionaria    | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0028P    | No estacionaria | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0026P    | Estacionaria    | Estacionaria |
++--------------+-----------------+--------------+
+| HUPA0027P    | No estacionaria | Estacionaria |
++--------------+-----------------+--------------+
